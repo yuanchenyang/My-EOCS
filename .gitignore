@@ -30,8 +30,3 @@ pip-log.txt
 ehthumbs.db
 Icon?
 Thumbs.db
-
-#Latex compiler files
-*.synctex.gz
-*.aux
-*.log
